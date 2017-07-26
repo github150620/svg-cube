@@ -13,7 +13,7 @@ stroke:SkyBlue"/>
 style="fill:#bbbbbb;stroke:rgb(55,55,55);stroke-width:24"/>
 
 <polygon points = "0,0 -866,500 0,1000 866,500" 
-style="fill:Yellow;stroke:rgb(55,55,55);stroke-width:24"/>
+style="fill:white;stroke:rgb(55,55,55);stroke-width:24"/>
 <polygon points = "0,0 866,500 866,-500 0,-1000" 
 style="fill:Green;stroke:rgb(55,55,55);stroke-width:24"/>
 <polygon points = "0,0 0,-1000 -866,-500 -866,500 -866,500" 
